@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/bennyhawk/bennyhawk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there! My name is Reuben Nellissery and I'm a final year, IT student in Manipal Institute of Technology, Karnataka. I am a Mobile Developer by passion and have created projects, both personal and professional. I also love swimming and photography.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Projects
 
-### Markdown
+### 1. HealthGate
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###### Find this project on Google Play ([Link](https://play.google.com/store/apps/details?id=com.bennyhawk.health_gate))
+###### Note: The app is only for verified community health workers.
 
-```markdown
-Syntax highlighted code block
+HealthGate is a project that addresses the inequity of vaccine delivery by combining NFC technology with current immunization practices.
 
-# Header 1
-## Header 2
-### Header 3
+The solution is a mobile app for community health workers which store vaccination record data on an [NFC card](https://www.androidauthority.com/nfc-tags-explained-271872/) which is given to the parents, and a copy of the data on the cloud. This digitizes the record keeping process, ensuring that data is not lost and can be used in the future to improve vaccination drives.
 
-- Bulleted
-- List
+The HealthGate project has received a grant from the Bill and Melinda Gates Foundation as a part of grand challenges explorations:
+[Link](https://gcgh.grandchallenges.org/grant/vaccination-beads-visual-and-digital-vaccination-record)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bennyhawk/bennyhawk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
