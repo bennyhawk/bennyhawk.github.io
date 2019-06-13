@@ -10,7 +10,7 @@ Hi there! My name is Reuben Nellissery and I'm an IT undergraduate in Manipal In
 
 #### Find the app on Google Play ([Link](https://play.google.com/store/apps/details?id=m.studyduniya.com))
 
-[StudyDuniya]([https://www.studyduniya.com](https://www.studyduniya.com) is an educational social network that connects educators and learners. It is exam preparation platform for JEE, NEET and CA examinations.
+[StudyDuniya](https://www.studyduniya.com) is an educational social network that connects educators and learners. It is exam preparation platform for JEE, NEET and CA examinations.
 
 Using a host of Firebase features and robust MVVM architecture, we created an Android app that was scalable and efficient. Our app has the following features
 
