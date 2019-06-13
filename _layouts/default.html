@@ -13,7 +13,9 @@
   </head>
   <body>
     <div class="wrapper"  align="center">
+      
       <header>
+        <div align="center">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -21,7 +23,9 @@
         {% endif %}
 
         <br><br>
+           </div>
       </header>
+     
       <section>
 
       {{ content }}
