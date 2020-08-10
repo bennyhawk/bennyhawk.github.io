@@ -35,17 +35,17 @@ The HealthGate project has received a grant from the Bill and Melinda Gates Foun
 
 **Related News:**
 [Healthgate release in Manipal](https://www.thehindu.com/news/cities/Mangalore/manipal-gets-vaccinationrecord-keeping-platform/article30946236.ece)
-
-
-
+  
+  
+  
 ## 2. Student Support Team
 
 #### Find this project on Google Play ([Link](https://play.google.com/store/apps/details?id=com.bennyhawk.studentsupport&hl=en))
 
 The project mainly aims at bridging the gap between the students of MIT, Manipal and mental health professionals. Once launched, the students will be able to read up articles on topics of mental well being, written by the members of the Student Support team. Future scope of the app include bookig appointments with doctors and anonymously asking for advice, all on the app.
-
-
-
+  
+  
+  
 ## 3. MUPy 2018
 
 #### Find this project on Google Play ([Link](https://play.google.com/store/apps/details?id=com.pypals.bennyhawk.mupy18.deprecated&hl=en))
