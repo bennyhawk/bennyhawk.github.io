@@ -1,29 +1,23 @@
-# About Me
+# Quick Intro
 
-Hi there! My name is Reuben Nellissery and I'm an IT undergraduate in Manipal Institute of Technology, Karnataka. I am a Mobile Developer by passion and have created projects, both personal and professional. I also love swimming and photography.
-
+🙂 : Reuben Nellissery  
+🏡 : Pune, Maharashtra  
+💼 : Novartis, Hyderabad  
+  
+**Education**  
+🏫 : St Vincent's Junior college, Pune  
+🎓 : MIT, Manipal (IT - 2020)  
+  
+**Interests**  
+🎯 : Healthcare domain  
+💻 : Data Science, Mobile app development  
+  
+**Hobbies**  
+🎳 : Swimming, Chess  
+🎮 : World of Tanks Blitz  
+  
 ---
-
-# Internships
-
-## 1. StudyDuniya
-
-#### Find the app on Google Play ([Link](https://play.google.com/store/apps/details?id=m.studyduniya.com))
-
-[StudyDuniya](https://www.studyduniya.com) is an educational social network that connects educators and learners. It is exam preparation platform for JEE, NEET and CA examinations.
-
-Using a host of Firebase features and robust MVVM architecture, we created an Android app that was scalable and efficient. Our app has the following features
-
-- Connection directly with educators
-
-- Video lectures of topics
-
-- Study material
-
-- Practice MCQ tests
-
----
-
+  
 # Projects
 
 ## 1. HealthGate
@@ -39,8 +33,23 @@ The solution is a mobile app for community health workers which store vaccinatio
 The HealthGate project has received a grant from the Bill and Melinda Gates Foundation as a part of grand challenges explorations:
 [Link](https://gcgh.grandchallenges.org/grant/vaccination-beads-visual-and-digital-vaccination-record)
 
+**Related News:**
+[Healthgate release in Manipal](https://www.thehindu.com/news/cities/Mangalore/manipal-gets-vaccinationrecord-keeping-platform/article30946236.ece)
 
 
-### 
+
+## 2. Student Support Team
+
+#### Find this project on Google Play ([Link](https://play.google.com/store/apps/details?id=com.bennyhawk.studentsupport&hl=en))
+
+The project mainly aims at bridging the gap between the students of MIT, Manipal and mental health professionals. Once launched, the students will be able to read up articles on topics of mental well being, written by the members of the Student Support team. Future scope of the app include bookig appointments with doctors and anonymously asking for advice, all on the app.
 
 
+
+## 3. MUPy 2018
+
+#### Find this project on Google Play ([Link](https://play.google.com/store/apps/details?id=com.pypals.bennyhawk.mupy18.deprecated&hl=en))
+
+MUPy (Manipal's Python Developer Conference) is a student organized conference intended to promote development and open source contributions on the Python programming language and for increasing the exposure of Python and its related frameworks around Manipal. 
+
+This app aimed to provide the attendee with the option to register for the event and view the schedule within the app. It also provided attendance data of attendees to the organizers.
